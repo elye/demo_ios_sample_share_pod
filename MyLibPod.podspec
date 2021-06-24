@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 A Testing Private Pod to share with all
                        DESC
 
-  s.homepage         = 'https://github.com/elye/MyLibPod'
+  s.homepage         = 'https://github.com/elye/demo_ios_sample_share_pod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'elye' => 'elisha.lye@rea.group.com' }
-  s.source           = { :git => 'https://github.com/elye/MyLibPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/elye/demo_ios_sample_share_pod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
