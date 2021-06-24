@@ -1,0 +1,6 @@
+framework module MyLibPod {
+  umbrella header "MyLibPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MyLibPod (0.1.0)
+
+DEPENDENCIES:
+  - MyLibPod (from `../`)
+
+EXTERNAL SOURCES:
+  MyLibPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyLibPod: 95a1ffef48ab5ffb80de8ac3cdb4650fb5170067
+
+PODFILE CHECKSUM: 35b1821a0fc8fdd127440c66b709c38df28ee3ef
+
+COCOAPODS: 1.10.1

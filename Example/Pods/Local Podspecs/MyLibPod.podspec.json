@@ -1,0 +1,22 @@
+{
+  "name": "MyLibPod",
+  "version": "0.1.0",
+  "summary": "A short description of MyLibPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/elye/MyLibPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "elye": "elisha.lye@rea.group.com"
+  },
+  "source": {
+    "git": "https://github.com/elye/MyLibPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyLibPod/Classes/**/*"
+}
