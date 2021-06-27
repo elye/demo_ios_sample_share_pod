@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyLibPod'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A testing Pod'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ A Testing Private Pod to share with all
   s.homepage         = 'https://github.com/elye/demo_ios_sample_share_pod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'elye' => 'elisha.lye@rea.group.com' }
+  s.author           = { 'elye' => 'elye.project@gmail.com' }
   s.source           = { :git => 'https://github.com/elye/demo_ios_sample_share_pod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
