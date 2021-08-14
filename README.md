@@ -22,7 +22,7 @@ pod 'MyLibPod'
 
 ## Author
 
-elye, elisha.lye@rea.group.com
+elye
 
 ## License
 
